@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://potalvat.github.io/sitemap
+Sitemap: https://potalvat.github.io/app/sitemap
+Sitemap: https://potalvat.github.io/assets/sitemap
+Sitemap: https://potalvat.github.io/css/sitemap
+Sitemap: https://potalvat.github.io/includes/sitemap
+Sitemap: https://potalvat.github.io/item/sitemap
+Sitemap: https://potalvat.github.io/src/sitemap
